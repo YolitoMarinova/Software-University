@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\01.SumAdjacentEqualNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Arrays - Lab\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.pdb

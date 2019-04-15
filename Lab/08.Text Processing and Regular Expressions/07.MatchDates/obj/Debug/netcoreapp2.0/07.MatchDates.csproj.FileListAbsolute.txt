@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\bin\Debug\netcoreapp2.0\07.MatchDates.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\bin\Debug\netcoreapp2.0\07.MatchDates.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\bin\Debug\netcoreapp2.0\07.MatchDates.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\bin\Debug\netcoreapp2.0\07.MatchDates.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\bin\Debug\netcoreapp2.0\07.MatchDates.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\07.MatchDates\obj\Debug\netcoreapp2.0\07.MatchDates.pdb

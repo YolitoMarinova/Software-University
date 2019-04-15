@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\bin\Debug\netcoreapp2.0\03.MergingLists.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\bin\Debug\netcoreapp2.0\03.MergingLists.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\bin\Debug\netcoreapp2.0\03.MergingLists.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\bin\Debug\netcoreapp2.0\03.MergingLists.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\bin\Debug\netcoreapp2.0\03.MergingLists.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\03.MergingLists\obj\Debug\netcoreapp2.0\03.MergingLists.pdb

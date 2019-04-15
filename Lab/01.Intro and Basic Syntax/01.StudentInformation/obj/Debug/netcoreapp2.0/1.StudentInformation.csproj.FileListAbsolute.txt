@@ -1,0 +1,11 @@
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\bin\Debug\netcoreapp2.0\1.StudentInformation.deps.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\bin\Debug\netcoreapp2.0\1.StudentInformation.runtimeconfig.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\bin\Debug\netcoreapp2.0\1.StudentInformation.runtimeconfig.dev.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\bin\Debug\netcoreapp2.0\1.StudentInformation.dll
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\bin\Debug\netcoreapp2.0\1.StudentInformation.pdb
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.AssemblyInfo.cs
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.dll
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\obj\Debug\netcoreapp2.0\1.StudentInformation.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\bin\Debug\netcoreapp2.0\08.VehicleCatalogue.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\bin\Debug\netcoreapp2.0\08.VehicleCatalogue.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\bin\Debug\netcoreapp2.0\08.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\bin\Debug\netcoreapp2.0\08.VehicleCatalogue.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\bin\Debug\netcoreapp2.0\08.VehicleCatalogue.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\08.VehicleCatalogue\obj\Debug\netcoreapp2.0\08.VehicleCatalogue.pdb

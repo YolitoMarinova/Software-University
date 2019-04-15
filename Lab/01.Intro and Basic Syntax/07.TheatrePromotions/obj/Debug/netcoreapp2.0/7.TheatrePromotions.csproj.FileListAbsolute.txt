@@ -1,0 +1,11 @@
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\bin\Debug\netcoreapp2.0\7.TheatrePromotions.deps.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\bin\Debug\netcoreapp2.0\7.TheatrePromotions.runtimeconfig.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\bin\Debug\netcoreapp2.0\7.TheatrePromotions.runtimeconfig.dev.json
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\bin\Debug\netcoreapp2.0\7.TheatrePromotions.dll
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\bin\Debug\netcoreapp2.0\7.TheatrePromotions.pdb
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.AssemblyInfo.cs
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.dll
+C:\Users\ioan4\source\repos\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\7.TheatrePromotions\obj\Debug\netcoreapp2.0\7.TheatrePromotions.pdb

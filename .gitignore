@@ -1,0 +1,7 @@
+*.lock
+*.ide
+*.sqlite
+*.pdb
+*.cache
+*.props
+*.targets
