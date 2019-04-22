@@ -5,3 +5,7 @@
 *.cache
 *.props
 *.targets
+*.json
+*.dll
+*.txt
+*.zip
