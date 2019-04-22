@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\bin\Debug\netcoreapp2.1\01.StudentInformation.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\bin\Debug\netcoreapp2.1\01.StudentInformation.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\bin\Debug\netcoreapp2.1\01.StudentInformation.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\bin\Debug\netcoreapp2.1\01.StudentInformation.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\bin\Debug\netcoreapp2.1\01.StudentInformation.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.Intro and Basic Syntax\Intro and Basic Syntax\01.StudentInformation\obj\Debug\netcoreapp2.1\01.StudentInformation.pdb

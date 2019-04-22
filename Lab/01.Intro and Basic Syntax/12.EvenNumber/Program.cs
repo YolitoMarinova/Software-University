@@ -15,7 +15,7 @@ namespace _12.EvenNumber
                 {
                     Console.WriteLine($"The number is: {Math.Abs(evenNumber)}");
                     break;
-                   
+
                 }
                 else
                 {

@@ -11,12 +11,12 @@ namespace _09.SumOfOddNumbers
 
             for (int i = 1; i <= number; i++)
             {
-                Console.WriteLine("{0}",2*i-1);
+                Console.WriteLine("{0}", 2 * i - 1);
                 sum += 2 * i - 1;
             }
 
             Console.WriteLine($"Sum: {sum}");
-            
+
         }
     }
 }

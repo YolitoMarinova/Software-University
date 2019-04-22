@@ -665,26 +665,26 @@
   },
   "packageFolders": {
     "C:\\Users\\ioan4\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\03.BigFactorial.csproj",
+      "projectUniqueName": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\03.BigFactorial.csproj",
       "projectName": "03.BigFactorial",
-      "projectPath": "D:\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\03.BigFactorial.csproj",
+      "projectPath": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\03.BigFactorial.csproj",
       "packagesPath": "C:\\Users\\ioan4\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\obj\\",
+      "outputPath": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\06.ObjectsАndClasses\\03.BigFactorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\ioan4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -708,7 +708,6 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

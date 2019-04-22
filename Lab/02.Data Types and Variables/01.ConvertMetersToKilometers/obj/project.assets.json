@@ -665,26 +665,26 @@
   },
   "packageFolders": {
     "C:\\Users\\ioan4\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj",
+      "projectUniqueName": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj",
       "projectName": "01.ConvertMetersToKilometers",
-      "projectPath": "D:\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj",
+      "projectPath": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\01.ConvertMetersToKilometers.csproj",
       "packagesPath": "C:\\Users\\ioan4\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\obj\\",
+      "outputPath": "C:\\Users\\ioan4\\Desktop\\SoftUni\\TechModule\\Lab\\02.Data Types and Variables\\01.ConvertMetersToKilometers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\ioan4\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -708,7 +708,6 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
