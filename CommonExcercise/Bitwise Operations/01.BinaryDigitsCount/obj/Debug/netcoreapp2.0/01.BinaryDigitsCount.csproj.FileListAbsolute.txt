@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\bin\Debug\netcoreapp2.0\01.BinaryDigitsCount.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\bin\Debug\netcoreapp2.0\01.BinaryDigitsCount.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\bin\Debug\netcoreapp2.0\01.BinaryDigitsCount.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\bin\Debug\netcoreapp2.0\01.BinaryDigitsCount.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\bin\Debug\netcoreapp2.0\01.BinaryDigitsCount.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\01.BinaryDigitsCount\obj\Debug\netcoreapp2.0\01.BinaryDigitsCount.pdb

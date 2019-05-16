@@ -1,11 +1,5 @@
 *.lock
-*.ide
-*.sqlite
-*.pdb
-*.cache
-*.props
-*.targets
 *.json
+*.cache
 *.dll
-*.txt
-*.zip
+*.js

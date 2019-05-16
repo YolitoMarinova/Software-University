@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\bin\Debug\netcoreapp2.0\04.BitDestroyer.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\bin\Debug\netcoreapp2.0\04.BitDestroyer.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\bin\Debug\netcoreapp2.0\04.BitDestroyer.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\bin\Debug\netcoreapp2.0\04.BitDestroyer.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\bin\Debug\netcoreapp2.0\04.BitDestroyer.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\obj\Debug\netcoreapp2.0\04.BitDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\obj\Debug\netcoreapp2.0\04.BitDestroyer.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\obj\Debug\netcoreapp2.0\04.BitDestroyer.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\obj\Debug\netcoreapp2.0\04.BitDestroyer.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\04.BitDestroyer\obj\Debug\netcoreapp2.0\04.BitDestroyer.pdb

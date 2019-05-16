@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\bin\Debug\netcoreapp2.0\06.TriBitSwtich.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\bin\Debug\netcoreapp2.0\06.TriBitSwtich.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\bin\Debug\netcoreapp2.0\06.TriBitSwtich.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\bin\Debug\netcoreapp2.0\06.TriBitSwtich.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\bin\Debug\netcoreapp2.0\06.TriBitSwtich.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\06.TriBitSwtich\obj\Debug\netcoreapp2.0\06.TriBitSwtich.pdb

@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\bin\Debug\netcoreapp2.0\05.OddTimes.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\bin\Debug\netcoreapp2.0\05.OddTimes.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\bin\Debug\netcoreapp2.0\05.OddTimes.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\bin\Debug\netcoreapp2.0\05.OddTimes.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\bin\Debug\netcoreapp2.0\05.OddTimes.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\obj\Debug\netcoreapp2.0\05.OddTimes.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\obj\Debug\netcoreapp2.0\05.OddTimes.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\obj\Debug\netcoreapp2.0\05.OddTimes.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\obj\Debug\netcoreapp2.0\05.OddTimes.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\05.OddTimes\obj\Debug\netcoreapp2.0\05.OddTimes.pdb

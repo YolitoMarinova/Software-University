@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\bin\Debug\netcoreapp2.0\03.pthBit.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\bin\Debug\netcoreapp2.0\03.pthBit.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\bin\Debug\netcoreapp2.0\03.pthBit.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\bin\Debug\netcoreapp2.0\03.pthBit.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\bin\Debug\netcoreapp2.0\03.pthBit.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\obj\Debug\netcoreapp2.0\03.pthBit.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\obj\Debug\netcoreapp2.0\03.pthBit.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\obj\Debug\netcoreapp2.0\03.pthBit.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\obj\Debug\netcoreapp2.0\03.pthBit.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\03.pthBit\obj\Debug\netcoreapp2.0\03.pthBit.pdb

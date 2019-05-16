@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\bin\Debug\netcoreapp2.0\02.FirstBit.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\bin\Debug\netcoreapp2.0\02.FirstBit.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\bin\Debug\netcoreapp2.0\02.FirstBit.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\bin\Debug\netcoreapp2.0\02.FirstBit.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\bin\Debug\netcoreapp2.0\02.FirstBit.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Common Excercise\Bitwise Operations\02.FirstBit\obj\Debug\netcoreapp2.0\02.FirstBit.pdb
