@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\bin\Debug\netcoreapp2.0\02.OddOccurrences.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\bin\Debug\netcoreapp2.0\02.OddOccurrences.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\bin\Debug\netcoreapp2.0\02.OddOccurrences.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\bin\Debug\netcoreapp2.0\02.OddOccurrences.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\bin\Debug\netcoreapp2.0\02.OddOccurrences.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\obj\Debug\netcoreapp2.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\obj\Debug\netcoreapp2.0\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\obj\Debug\netcoreapp2.0\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\obj\Debug\netcoreapp2.0\02.OddOccurrences.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\02.OddOccurrences\obj\Debug\netcoreapp2.0\02.OddOccurrences.pdb

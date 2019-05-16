@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.pdb

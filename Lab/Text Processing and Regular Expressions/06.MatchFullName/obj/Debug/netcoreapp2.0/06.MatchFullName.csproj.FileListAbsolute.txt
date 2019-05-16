@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\bin\Debug\netcoreapp2.0\06.MatchFullName.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\bin\Debug\netcoreapp2.0\06.MatchFullName.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\bin\Debug\netcoreapp2.0\06.MatchFullName.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\bin\Debug\netcoreapp2.0\06.MatchFullName.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\bin\Debug\netcoreapp2.0\06.MatchFullName.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\06.MatchFullName\obj\Debug\netcoreapp2.0\06.MatchFullName.pdb

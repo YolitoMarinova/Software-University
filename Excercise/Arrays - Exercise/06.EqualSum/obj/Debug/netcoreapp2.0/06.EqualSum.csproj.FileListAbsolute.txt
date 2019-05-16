@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp2.0\06.EqualSum.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp2.0\06.EqualSum.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp2.0\06.EqualSum.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp2.0\06.EqualSum.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\bin\Debug\netcoreapp2.0\06.EqualSum.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\06.EqualSum\obj\Debug\netcoreapp2.0\06.EqualSum.pdb

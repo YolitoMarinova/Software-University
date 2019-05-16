@@ -1,0 +1,11 @@
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\bin\Debug\netcoreapp2.0\1.SortNumbers.deps.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\bin\Debug\netcoreapp2.0\1.SortNumbers.runtimeconfig.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\bin\Debug\netcoreapp2.0\1.SortNumbers.runtimeconfig.dev.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\bin\Debug\netcoreapp2.0\1.SortNumbers.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\bin\Debug\netcoreapp2.0\1.SortNumbers.pdb
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.csprojResolveAssemblyReference.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.csproj.CoreCompileInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.AssemblyInfoInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.AssemblyInfo.cs
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\1.SortNumbers\obj\Debug\netcoreapp2.0\1.SortNumbers.pdb

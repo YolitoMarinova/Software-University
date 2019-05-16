@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09.GreaterOfTwoValues.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09.GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09.GreaterOfTwoValues.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09.GreaterOfTwoValues.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Methods - Lab\09.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09.GreaterOfTwoValues.pdb

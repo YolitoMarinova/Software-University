@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\bin\Debug\netcoreapp2.0\05.Login.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\bin\Debug\netcoreapp2.0\05.Login.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\bin\Debug\netcoreapp2.0\05.Login.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\bin\Debug\netcoreapp2.0\05.Login.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\bin\Debug\netcoreapp2.0\05.Login.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\05.Login\obj\Debug\netcoreapp2.0\05.Login.pdb

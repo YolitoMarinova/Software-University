@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.pdb

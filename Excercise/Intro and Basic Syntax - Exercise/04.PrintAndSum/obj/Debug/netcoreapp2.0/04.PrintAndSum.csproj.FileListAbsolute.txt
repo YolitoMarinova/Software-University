@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.pdb

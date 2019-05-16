@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.pdb

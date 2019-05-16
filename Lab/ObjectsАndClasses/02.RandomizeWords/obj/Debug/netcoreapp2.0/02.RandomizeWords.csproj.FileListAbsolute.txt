@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.pdb

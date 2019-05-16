@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\bin\Debug\netcoreapp2.0\03.ZigZagArrays.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\bin\Debug\netcoreapp2.0\03.ZigZagArrays.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\bin\Debug\netcoreapp2.0\03.ZigZagArrays.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\bin\Debug\netcoreapp2.0\03.ZigZagArrays.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\bin\Debug\netcoreapp2.0\03.ZigZagArrays.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\03.ZigZagArrays\obj\Debug\netcoreapp2.0\03.ZigZagArrays.pdb

@@ -1,0 +1,21 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\02.Data Types and Variables - Exercises\06.TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\06.TriplesOfLatinLetters.pdb

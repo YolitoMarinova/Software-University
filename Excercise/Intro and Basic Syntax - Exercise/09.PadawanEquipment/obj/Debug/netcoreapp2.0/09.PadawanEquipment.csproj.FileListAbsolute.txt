@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.pdb

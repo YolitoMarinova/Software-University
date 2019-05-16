@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp2.0\09.SpiceMustFlow.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp2.0\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp2.0\09.SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp2.0\09.SpiceMustFlow.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp2.0\09.SpiceMustFlow.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp2.0\09.SpiceMustFlow.pdb

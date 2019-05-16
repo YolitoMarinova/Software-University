@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp2.0\05.TopIntegers.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp2.0\05.TopIntegers.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp2.0\05.TopIntegers.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp2.0\05.TopIntegers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\bin\Debug\netcoreapp2.0\05.TopIntegers.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\05.TopIntegers\obj\Debug\netcoreapp2.0\05.TopIntegers.pdb

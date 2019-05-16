@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.pdb

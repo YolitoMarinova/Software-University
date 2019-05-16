@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp2.0\09.KaminoFactory.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp2.0\09.KaminoFactory.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp2.0\09.KaminoFactory.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp2.0\09.KaminoFactory.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp2.0\09.KaminoFactory.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp2.0\09.KaminoFactory.pdb

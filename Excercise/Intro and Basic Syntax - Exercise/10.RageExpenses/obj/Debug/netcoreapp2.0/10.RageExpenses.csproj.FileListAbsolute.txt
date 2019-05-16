@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\bin\Debug\netcoreapp2.0\10.RageExpenses.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\bin\Debug\netcoreapp2.0\10.RageExpenses.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\bin\Debug\netcoreapp2.0\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\bin\Debug\netcoreapp2.0\10.RageExpenses.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\bin\Debug\netcoreapp2.0\10.RageExpenses.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\10.RageExpenses\obj\Debug\netcoreapp2.0\10.RageExpenses.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\netcoreapp2.0\02.Divison.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\netcoreapp2.0\02.Divison.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\netcoreapp2.0\02.Divison.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\netcoreapp2.0\02.Divison.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\bin\Debug\netcoreapp2.0\02.Divison.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\02.Divison\obj\Debug\netcoreapp2.0\02.Divison.pdb

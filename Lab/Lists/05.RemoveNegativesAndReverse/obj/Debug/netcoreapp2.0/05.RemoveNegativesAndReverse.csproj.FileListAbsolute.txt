@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Lists - Lab\05.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\05.RemoveNegativesAndReverse.pdb

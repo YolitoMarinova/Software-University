@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Text Processing and Regular Expressions\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.pdb

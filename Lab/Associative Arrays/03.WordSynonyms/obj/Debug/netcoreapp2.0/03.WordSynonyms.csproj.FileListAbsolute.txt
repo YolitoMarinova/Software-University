@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\01.CountRealNumbers\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.pdb

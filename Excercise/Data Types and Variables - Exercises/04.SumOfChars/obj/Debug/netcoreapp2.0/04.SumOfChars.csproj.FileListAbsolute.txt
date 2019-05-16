@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\bin\Debug\netcoreapp2.0\04.SumOfChars.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\bin\Debug\netcoreapp2.0\04.SumOfChars.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\bin\Debug\netcoreapp2.0\04.SumOfChars.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\bin\Debug\netcoreapp2.0\04.SumOfChars.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\bin\Debug\netcoreapp2.0\04.SumOfChars.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\DataTypesАndVariables-Exercise\04.SumOfChars\obj\Debug\netcoreapp2.0\04.SumOfChars.pdb

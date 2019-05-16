@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.pdb

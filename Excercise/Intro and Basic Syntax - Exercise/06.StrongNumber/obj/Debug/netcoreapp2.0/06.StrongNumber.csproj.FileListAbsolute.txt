@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.deps.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.pdb
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.dll
+C:\Users\ioan4\Desktop\SoftUni\Intro and Basic Syntax - Exercise\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.pdb

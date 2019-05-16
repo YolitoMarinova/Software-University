@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.pdb

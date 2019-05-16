@@ -1,0 +1,11 @@
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.csprojResolveAssemblyReference.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.csproj.CoreCompileInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.AssemblyInfoInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.AssemblyInfo.cs
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\bin\Debug\netcoreapp2.0\3.GamingStore.deps.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\bin\Debug\netcoreapp2.0\3.GamingStore.runtimeconfig.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\bin\Debug\netcoreapp2.0\3.GamingStore.runtimeconfig.dev.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\bin\Debug\netcoreapp2.0\3.GamingStore.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\bin\Debug\netcoreapp2.0\3.GamingStore.pdb
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\3.GamingStore\obj\Debug\netcoreapp2.0\3.GamingStore.pdb

@@ -1,0 +1,10 @@
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.deps.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.runtimeconfig.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\bin\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.pdb
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\2.EnglishNameOfTheLastDigit\obj\Debug\netcoreapp2.0\2.EnglishNameOfTheLastDigit.pdb

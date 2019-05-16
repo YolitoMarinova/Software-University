@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\bin\Debug\netcoreapp2.0\06.BalancedBrackets.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\bin\Debug\netcoreapp2.0\06.BalancedBrackets.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\bin\Debug\netcoreapp2.0\06.BalancedBrackets.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\bin\Debug\netcoreapp2.0\06.BalancedBrackets.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\bin\Debug\netcoreapp2.0\06.BalancedBrackets.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Data Types and Variables - More Exercises\06.BalancedBrackets\obj\Debug\netcoreapp2.0\06.BalancedBrackets.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\bin\Debug\netcoreapp2.0\05.AddAndSubtract.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\bin\Debug\netcoreapp2.0\05.AddAndSubtract.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\bin\Debug\netcoreapp2.0\05.AddAndSubtract.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\bin\Debug\netcoreapp2.0\05.AddAndSubtract.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\bin\Debug\netcoreapp2.0\05.AddAndSubtract.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\05.AddAndSubtract\obj\Debug\netcoreapp2.0\05.AddAndSubtract.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Lab\Solution1\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.pdb

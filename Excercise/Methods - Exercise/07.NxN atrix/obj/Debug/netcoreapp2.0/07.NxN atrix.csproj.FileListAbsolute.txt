@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\bin\Debug\netcoreapp2.0\07.NxN atrix.deps.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\bin\Debug\netcoreapp2.0\07.NxN atrix.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\bin\Debug\netcoreapp2.0\07.NxN atrix.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\bin\Debug\netcoreapp2.0\07.NxN atrix.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\bin\Debug\netcoreapp2.0\07.NxN atrix.pdb
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.csprojResolveAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.dll
+C:\Users\ioan4\Desktop\SoftUni\TechModule\Excercise\Methods - Exercise\07.NxN atrix\obj\Debug\netcoreapp2.0\07.NxN atrix.pdb

@@ -1,0 +1,11 @@
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\bin\Debug\netcoreapp2.0\4.ReverseString.deps.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\bin\Debug\netcoreapp2.0\4.ReverseString.runtimeconfig.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\bin\Debug\netcoreapp2.0\4.ReverseString.runtimeconfig.dev.json
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\bin\Debug\netcoreapp2.0\4.ReverseString.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\bin\Debug\netcoreapp2.0\4.ReverseString.pdb
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.csprojResolveAssemblyReference.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.csproj.CoreCompileInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.AssemblyInfoInputs.cache
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.AssemblyInfo.cs
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.dll
+c:\users\ioan4\source\repos\Intro and Basic Syntax - More Exercise\4.ReverseString\obj\Debug\netcoreapp2.0\4.ReverseString.pdb
